@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 import datetime, time, subprocess
-def time():
+def dateAndTime():
     dt = datetime.datetime.now()
     print(f"It is:\n{dt.strftime("\033[32m%H:%M:%S, \033[36m%m/%d/%Y\033[0m")}")
     print("You got this \U0000263A")
