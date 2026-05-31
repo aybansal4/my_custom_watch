@@ -55,5 +55,5 @@ earth()
 ## Notes
 
 - The project does not yet include a full graphical interface.
-- It is intended to be a starting point for a custom terminal-based watchface.
-- Feel free to extend it with additional features like alarms, timers, or a real terminal UI.
+- It is not intended to be a guide to build your own smartwatch, just documentation on mine
+- Feel free to extend it with additional features like alarms, timers, or more!
